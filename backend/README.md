@@ -2,8 +2,6 @@
 
 A Node.js/Express.js application that serves a REST API for managing profiles, contracts, and jobs.
 
-[🚀 Live Backend](https://deel-backend.cyclic.cloud/contracts)
-
 ## Table of Contents
 
 - [Requirements](#requirements)

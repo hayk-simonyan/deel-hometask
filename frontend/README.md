@@ -2,8 +2,6 @@
 
 This frontend application is a very basic React app designed to demonstrate the usage of our backend API. It provides a simple interface to interact with the various endpoints, covering contracts, jobs, balance management, and admin functionalities.
 
-[🚀 Live Demo](https://deel-frontend.web.app/)
-
 ## Overview
 
 The application is intentionally minimal, focusing on functionality rather than styling or advanced features. The primary goal is to showcase the integration with the backend API, allowing users to:
@@ -40,3 +38,4 @@ The application includes the `profile_id` in the headers of each API request to 
 - **Styling**: The application uses very basic JSS styling without focusing on aesthetics.
 - **Error Handling**: The error handling is minimal, mainly focusing on demonstrating API interactions.
 - **Authentication**: The authentication process is simplified, relying on the `profile_id` provided in the headers.
+- **UI Alerts**: Currently UI Alerts just display generic error or success messages, it can be improved to display more specific responses.

@@ -2,9 +2,6 @@
 
 This repository includes a Node.js/Express.js backend API, complemented by a simple React frontend demo, unit tests, and security enhancements.
 
-[🚀 Live Demo](https://deel-frontend.web.app/)
-[🚀 Live Backend](https://deel-backend.cyclic.cloud/contracts)
-
 While the primary task is focused on the backend API, additional efforts were made to showcase the usage of it in a simple React app.
 
 ## Table of Contents
